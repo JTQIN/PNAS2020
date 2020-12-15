@@ -1,5 +1,5 @@
 # PNAS2020
-Data, model code and output files associated with manuscript 'van de Velde et al., 2020, PNAS, doi:TBD'
+Data, model code and output files associated with manuscript 'van de Velde et al., 2020, PNAS, doi:10.1073/pnas.2008235117'
 
 Three models were developed in the manuscript and described in the Supplementary Information:
 
